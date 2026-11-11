@@ -2,7 +2,7 @@
 
 Mekanik tasarım ve mühendislik analizi portföyü · Bitirme Projesi · 2026
 
-[English version](README.eng.md)
+[English version](README.md)
 
 ## Proje Özeti
 
